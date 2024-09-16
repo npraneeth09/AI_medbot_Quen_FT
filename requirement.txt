@@ -1,0 +1,12 @@
+langchain==0.1.9
+langchain_community==0.0.24
+sentence-transformers==2.4.0
+unstructured
+unstructured[pdf]
+qdrant-client
+python-dotenv
+accelerate
+huggingface_hub
+llama-cpp-python
+gradio
+-e .
